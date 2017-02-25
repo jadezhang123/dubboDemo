@@ -1,0 +1,7 @@
+rootProject.name = 'dubboDemo'
+include 'user-api'
+include 'user-service'
+include 'user-web'
+include 'common'
+include 'user-domain'
+

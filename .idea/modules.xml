@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/common.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/common_main.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/common_test.iml" group="common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubboDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/dubboDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubboDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubboDemo_main.iml" group="dubboDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubboDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubboDemo_test.iml" group="dubboDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-api/user-api.iml" filepath="$PROJECT_DIR$/.idea/modules/user-api/user-api.iml" group="user-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-api/user-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-api/user-api_main.iml" group="user-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-api/user-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/user-api/user-api_test.iml" group="user-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-domain/user-domain.iml" filepath="$PROJECT_DIR$/.idea/modules/user-domain/user-domain.iml" group="user-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-domain/user-domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-domain/user-domain_main.iml" group="user-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-domain/user-domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/user-domain/user-domain_test.iml" group="user-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service/user-service.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service/user-service.iml" group="user-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service/user-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service/user-service_main.iml" group="user-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service/user-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service/user-service_test.iml" group="user-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-web/user-web.iml" filepath="$PROJECT_DIR$/.idea/modules/user-web/user-web.iml" group="user-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-web/user-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-web/user-web_main.iml" group="user-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-web/user-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/user-web/user-web_test.iml" group="user-web" />
+    </modules>
+  </component>
+</project>
