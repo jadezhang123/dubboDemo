@@ -47,6 +47,9 @@ subprojects {
         compile 'org.springframework:spring-tx:4.2.5.RELEASE'
         compile 'org.springframework:spring-jdbc:4.2.5.RELEASE'
 
+        compile 'commons-io:commons-io:2.4'
+        compile 'commons-lang:commons-lang:2.6'
+
         //日志依赖
         compile 'org.slf4j:jcl-over-slf4j:1.7.21'
         compile 'org.slf4j:slf4j-api:1.7.21'

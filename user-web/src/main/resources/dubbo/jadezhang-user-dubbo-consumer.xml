@@ -15,7 +15,7 @@
     <dubbo:application name="jadezhang-web-user" />
 
     <!-- 使用zookeeper注册中心暴露服务地址 -->
-    <dubbo:registry protocol="zookeeper" address="192.168.249.130:2181" />
+    <dubbo:registry protocol="zookeeper" address="192.168.153.128:2181" />
 
     <dubbo:reference id="userService4Rpc" interface="own.jadezhang.user.api.rpc.IUserService4Rpc" check="false" timeout="60000"/>
 </beans>
